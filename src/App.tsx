@@ -1,10 +1,10 @@
 import './App.css'
-import WeatherApp from './components/weatherApp/weatherApp'
+import EmojiPickerInput from './components/emojiPicker/emojiPickerInput'
 
 function App() {
 
   return (
-    <WeatherApp />
+    <EmojiPickerInput />
   )
 }
 
